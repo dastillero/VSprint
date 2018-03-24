@@ -110,7 +110,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "22.0",
+            "value": "25.0",
             "varName": "max_speed",
             "varType": 0
         },
@@ -138,7 +138,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "0.55",
+            "value": "0.5",
             "varName": "braking_speed",
             "varType": 0
         },
@@ -152,7 +152,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "5.0",
+            "value": "3.0",
             "varName": "max_steering",
             "varType": 0
         },
@@ -180,7 +180,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "0.35",
+            "value": "0.3",
             "varName": "steering_inc",
             "varType": 0
         }

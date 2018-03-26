@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "bc743558-958a-4a08-ae5c-e05624ed2e05",
+            "Value": {
+                "id": "8262d3c2-0a4c-484e-8283-d1e71ddf2858",
+                "resourcePath": "sprites\\spr_car_yellow2\\spr_car_yellow2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "bcf23442-10a5-47a5-a915-fa24a8b3bdf8",
             "Value": {
                 "id": "83732203-4b25-4284-ac85-82a8235066ad",
